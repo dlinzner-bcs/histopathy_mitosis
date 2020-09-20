@@ -1,2 +1,2 @@
-# histopathy_mitosis_classification
-An implementation of mitosis classification from histopathy images.
+# Histopathy Mitosis Classification
+An implementation of mitosis classification from histopathy images using random forests.
