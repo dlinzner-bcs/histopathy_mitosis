@@ -4,10 +4,10 @@ venv/
 slides/
 
 
-
-
 *.sav
 
 train_main.py
 
 *.pyc
+
+.idea/
